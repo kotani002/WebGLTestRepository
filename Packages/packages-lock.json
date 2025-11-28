@@ -135,6 +135,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jp.frozenbonito.preview-server": {
+      "version": "https://github.com/frozenbonito/UnityPreviewServer.git?path=Packages/jp.frozenbonito.preview-server",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "94ae3996ec8520d2986039c1f7073e66e29202f3"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
